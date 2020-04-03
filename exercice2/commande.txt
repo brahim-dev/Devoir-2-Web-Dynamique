@@ -1,0 +1,6 @@
+242005001 | CLI1001 | 24 octobre 2005 | Tomates | 4 |4.0 | 26 octobre 2005 | 22 rue de Paradis, Fonty AGADIR
+252005002 | CLI1001 | 24 octobre 2005 | hule vegetable | 6 |3.0 | 26 octobre 2005 |123 rue de colibries, Gueiliz Marrakech
+242005003 | CLI1004 | 24 octobre 2005 | mais geant | 8 |3.5 | 26 octobre 2005 |45 Avennue des FAR ,Casablanca
+242005004 | CLI1001 | 24 octobre 2005 | fanta | 4 |4.0 | 26 octobre 2005 | 22 rue de Paradis, Fonty AGADIR
+252005005 | CLI1004 | 24 octobre 2005 | coca cola | 6 |3.0 | 26 octobre 2005 |123 rue de colibries, Gueiliz Marrakech
+242005006 | CLI1004 | 24 octobre 2005 | bananes | 8 |3.5 | 26 octobre 2005 |45 Avennue des FAR ,Casablanca
